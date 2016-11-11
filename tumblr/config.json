@@ -1,6 +1,7 @@
+#get api from https://www.tumblr.com/oauth/apps
 {
 	"api": {
-		"consumer_key": "d6OiiyMBl1f5gR7VW9HHPVwYlkuKxrGNNKdOzbKuHwUg3J5ZKk"
+		"consumer_key": ""
 	},
 	"blogs": [
         
